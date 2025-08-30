@@ -1,1 +1,12 @@
-
+# =============================================================================
+# EXERCISE 1: BASIC CLASS CREATION
+# =============================================================================
+"""
+Create a 'Student' class with the following:
+- Attributes: name, age, student_id, grades (list)
+- Methods: 
+  - add_grade(grade): adds a grade to the grades list
+  - get_average(): returns the average of all grades
+  - display_info(): prints student information
+  - is_passing(): returns True if average >= 60, False otherwise
+"""
