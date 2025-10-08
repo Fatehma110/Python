@@ -1,2 +1,2 @@
-# Codedex
-Codedex learning Projects
+# Python
+All Python-related coding!
